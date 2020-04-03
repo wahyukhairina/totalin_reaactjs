@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/totalin_reaactjs/static/css/main.e47d085b.chunk.css",
+    "main.js": "/totalin_reaactjs/static/js/main.2af3705f.chunk.js",
+    "main.js.map": "/totalin_reaactjs/static/js/main.2af3705f.chunk.js.map",
+    "runtime-main.js": "/totalin_reaactjs/static/js/runtime-main.324010f5.js",
+    "runtime-main.js.map": "/totalin_reaactjs/static/js/runtime-main.324010f5.js.map",
+    "static/css/2.8dbe6964.chunk.css": "/totalin_reaactjs/static/css/2.8dbe6964.chunk.css",
+    "static/js/2.614369a9.chunk.js": "/totalin_reaactjs/static/js/2.614369a9.chunk.js",
+    "static/js/2.614369a9.chunk.js.map": "/totalin_reaactjs/static/js/2.614369a9.chunk.js.map",
+    "index.html": "/totalin_reaactjs/index.html",
+    "precache-manifest.02a20343528cd57be094263a193436d2.js": "/totalin_reaactjs/precache-manifest.02a20343528cd57be094263a193436d2.js",
+    "service-worker.js": "/totalin_reaactjs/service-worker.js",
+    "static/css/2.8dbe6964.chunk.css.map": "/totalin_reaactjs/static/css/2.8dbe6964.chunk.css.map",
+    "static/css/main.e47d085b.chunk.css.map": "/totalin_reaactjs/static/css/main.e47d085b.chunk.css.map",
+    "static/js/2.614369a9.chunk.js.LICENSE.txt": "/totalin_reaactjs/static/js/2.614369a9.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/totalin_reaactjs/static/media/bg.fd926360.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324010f5.js",
+    "static/css/2.8dbe6964.chunk.css",
+    "static/js/2.614369a9.chunk.js",
+    "static/css/main.e47d085b.chunk.css",
+    "static/js/main.2af3705f.chunk.js"
+  ]
+}
